@@ -9,14 +9,14 @@ import (
 )
 
 func TestHandler(t *testing.T) {
-	req := httptest.NewRequest(http.MethodGet, "/", nil)
+	rq := httptest.NewRequest(http.MethodGet, "/", nil)
 	w := httptest.NewRecorder()
-	handler(w, req)
+	handler(w, rq)
 
-	res := w.Result()
-	defer res.Body.Close()
+	rs := w.Result()
+	defer rs.Body.Close()
 
-	data, err := ioutil.ReadAll(res.Body)
+	data, err := ioutil.ReadAll(rs.Body)
 	if err != nil {
 		t.Error(err)
 	}
