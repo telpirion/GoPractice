@@ -8,3 +8,4 @@
 
 ## Kata 3: Starting a simple web server
 
++ [httptest example](https://golang.cafe/blog/golang-httptest-example.html)
