@@ -1,10 +1,14 @@
-package kata1
+package main
 
 import (
 	"fmt"
 	"io/fs"
 	"io/ioutil"
 )
+
+func main() {
+	fmt.Println("Starting kata 1")
+}
 
 func openReadFile(filename, appendStr string) error {
 	i, err := ioutil.ReadFile(filename)

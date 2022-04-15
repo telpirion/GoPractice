@@ -1,4 +1,4 @@
-package kata2
+package main
 
 import (
 	"testing"
@@ -6,11 +6,11 @@ import (
 )
 
 func TestOpenReadUpdateJSON(t *testing.T) {
-	fname := "../testdata/kata2_input.json"
-	tNow := time.Now()
-	tStr := tNow.Format(time.Stamp)
+	f := "../testdata/kata2_input.json"
+	n := time.Now()
+	s := n.Format(time.Stamp)
 	k := "test"
-	err := openReadUpdateJSON(fname, k, tStr)
+	err := openReadUpdateJSON(f, k, s)
 	if err != nil {
 		t.Error(err)
 	}
