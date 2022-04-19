@@ -1,6 +1,5 @@
 # GoPractice
 
-<<<<<<< HEAD
 ## Kata 1
 
 Read and write to a text file.
