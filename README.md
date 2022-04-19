@@ -17,7 +17,7 @@ References:
 
 ## Kata 4
 
-Pass messages between two threads
+Pass messages between two channels
 
 ## Other kata
 
