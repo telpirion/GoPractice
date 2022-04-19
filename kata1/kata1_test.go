@@ -1,4 +1,4 @@
-package kata1
+package main
 
 import "testing"
 

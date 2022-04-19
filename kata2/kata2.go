@@ -1,4 +1,4 @@
-package kata2
+package main
 
 import (
 	"bytes"
@@ -7,6 +7,10 @@ import (
 	"io/fs"
 	"io/ioutil"
 )
+
+func main() {
+	fmt.Println("kata2")
+}
 
 func openReadUpdateJSON(filename, key, value string) error {
 
