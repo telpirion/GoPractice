@@ -19,9 +19,12 @@ References:
 
 Pass messages between two channels
 
+## Kata 5
+
+Create a linked list
+
 ## Other kata
 
-* Linked list
 * Binary search tree
 * Min / max heap
 * Tree comparison with goroutines
