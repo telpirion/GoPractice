@@ -1,0 +1,4133 @@
+[
+  {
+    "imageWidth": 4900,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Cavern of the Venom Queen [35x50]/Gridded/G_CavernOfTheVenomQueen_BloodyCave.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Cavern of the Venom Queen [35x50]/Gridded/G_CavernOfTheVenomQueen_FrostCave.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Cavern of the Venom Queen [35x50]/Gridded/G_CavernOfTheVenomQueen_DesertCave.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Cavern of the Venom Queen [35x50]/Gridded/G_CavernOfTheVenomQueen_Toxic.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Cavern of the Venom Queen [35x50]/Gridded/G_CavernOfTheVenomQueen_CultCave.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Cavern of the Venom Queen [35x50]/Gridded/G_CavernOfTheVenomQueen_DarkCave.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Cavern of the Venom Queen [35x50]/Gridded/G_CavernOfTheVenomQueen_StarryCave.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Cavern of the Venom Queen [35x50]/Gridded/G_CavernOfTheVenomQueen_Original.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5880,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Lair of the Illithids [23x42]/Gridded/G_LairOfTheIllithids_DeadBrain.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5880,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Lair of the Illithids [23x42]/Gridded/G_LairOfTheIllithids_Red.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5880,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Lair of the Illithids [23x42]/Gridded/G_LairOfTheIllithids_Darkness.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5880,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Lair of the Illithids [23x42]/Gridded/G_LairOfTheIllithids_Sacrifice.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5880,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Lair of the Illithids [23x42]/Gridded/G_LairOfTheIllithids_Gore.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5880,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Lair of the Illithids [23x42]/Gridded/G_LairOfTheIllithids_Original.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5880,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Lair of the Illithids [23x42]/Gridded/G_LairOfTheIllithids_Halloweenparty.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5880,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Lair of the Illithids [23x42]/Gridded/G_LairOfTheIllithids_Neolithid.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5880,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Lair of the Illithids [23x42]/Gridded/G_LairOfTheIllithids_Altar.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5880,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Lair of the Illithids [23x42]/Gridded/G_LairOfTheIllithids_Decay.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5880,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Lair of the Illithids [23x42]/Gridded/G_LairOfTheIllithids_Yellow.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5880,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Lair of the Illithids [23x42]/Gridded/G_LairOfTheIllithids_CultSummoning.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5880,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Lair of the Illithids [23x42]/Gridded/G_LairOfTheIllithids_Green.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5880,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Lair of the Illithids [23x42]/Gridded/G_LairOfTheIllithids_Psionicblast.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ancient Wizards Lair [35x35]/Gridded/G_AncientWizardsLair_WizardCouncil_Day.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ancient Wizards Lair [35x35]/Gridded/G_AncientWizardsLair_GriffinLibrary_Night.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ancient Wizards Lair [35x35]/Gridded/G_AncientWizardsLair_WizardCouncil_Night.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ancient Wizards Lair [35x35]/Gridded/G_AncientWizardsLair_Plain_Day.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ancient Wizards Lair [35x35]/Gridded/G_AncientWizardsLair_Original_Day.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ancient Wizards Lair [35x35]/Gridded/G_AncientWizardsLair_ElementalRooms_Night.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ancient Wizards Lair [35x35]/Gridded/G_AncientWizardsLair_Original_Night.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ancient Wizards Lair [35x35]/Gridded/G_AncientWizardsLair_Elemental_Night.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ancient Wizards Lair [35x35]/Gridded/G_AncientWizardsLair_ElementalRooms_Day.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ancient Wizards Lair [35x35]/Gridded/G_AncientWizardsLair_OctopusSpace_Night.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ancient Wizards Lair [35x35]/Gridded/G_AncientWizardsLair_GriffinLibrary_Day.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ancient Wizards Lair [35x35]/Gridded/G_AncientWizardsLair_PlanePortals_Night.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ancient Wizards Lair [35x35]/Gridded/G_AncientWizardsLair_Octopus_Night.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ancient Wizards Lair [35x35]/Gridded/G_AncientWizardsLair_Elemental_Day.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ancient Wizards Lair [35x35]/Gridded/G_AncientWizardsLair_PlanePortals_Day.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ancient Wizards Lair [35x35]/Gridded/G_AncientWizardsLair_Plain_Night.jpg"
+  },
+  {
+    "imageWidth": 3640,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Minotaur Labyrinth [26x50]/Gridded/G_MinotaurLabyrinth_CultistLair.jpg"
+  },
+  {
+    "imageWidth": 3640,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Minotaur Labyrinth [26x50]/Gridded/G_MinotaurLabyrinth_Camp.jpg"
+  },
+  {
+    "imageWidth": 3640,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Minotaur Labyrinth [26x50]/Gridded/G_MinotaurLabyrinth_Chained.jpg"
+  },
+  {
+    "imageWidth": 3640,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Minotaur Labyrinth [26x50]/Gridded/G_MinotaurLabyrinth_UnderdarkEntrance.jpg"
+  },
+  {
+    "imageWidth": 3640,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Minotaur Labyrinth [26x50]/Gridded/G_MinotaurLabyrinth_GemHunter.jpg"
+  },
+  {
+    "imageWidth": 3640,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Minotaur Labyrinth [26x50]/Gridded/G_MinotaurLabyrinth_Original.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5040,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "City Marketplace [23x36]/Gridded/G_CityMarketplace_Circus_Night.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5040,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "City Marketplace [23x36]/Gridded/G_CityMarketplace_CatSharkHaul_Day.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5040,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "City Marketplace [23x36]/Gridded/G_CityMarketplace_Circus_Day.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5040,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "City Marketplace [23x36]/Gridded/G_CityMarketplace_Bonfire_Night.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5040,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "City Marketplace [23x36]/Gridded/G_CityMarketplace_OriginalEmpty_Night.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5040,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "City Marketplace [23x36]/Gridded/G_CityMarketplace_GhostShip_Night.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5040,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "City Marketplace [23x36]/Gridded/G_CityMarketplace_Rain_Day.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5040,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "City Marketplace [23x36]/Gridded/G_CityMarketplace_SnowyMidnight_Night.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5040,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "City Marketplace [23x36]/Gridded/G_CityMarketplace_Original_Night.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5040,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "City Marketplace [23x36]/Gridded/G_CityMarketplace_Gallows_Night.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5040,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "City Marketplace [23x36]/Gridded/G_CityMarketplace_Original_Day.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5040,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "City Marketplace [23x36]/Gridded/G_CityMarketplace_Gallows_Day.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5040,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "City Marketplace [23x36]/Gridded/G_CityMarketplace_FightingStage_Day.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5040,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "City Marketplace [23x36]/Gridded/G_CityMarketplace_CatSharkHaul_Night.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5040,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "City Marketplace [23x36]/Gridded/G_CityMarketplace_FightingStage_Night.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5040,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "City Marketplace [23x36]/Gridded/G_CityMarketplace_OriginalEmpty_Day.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5040,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "City Marketplace [23x36]/Gridded/G_CityMarketplace_Bonfire_Day.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5040,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "City Marketplace [23x36]/Gridded/G_CityMarketplace_CultistSpell_Night.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 3220,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "The Stranded Casino [42x23] - $5 Rewards/Gridded/G_TheStrandedCasino_CrowsNest.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 3220,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "The Stranded Casino [42x23] - $5 Rewards/Gridded/G_TheStrandedCasino_Original.jpg"
+  },
+  {
+    "imageWidth": 3500,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Depths of the Festerwood [25x45] - $5 Rewards/Gridded/G_Festerwood_Meadows_Night.jpg"
+  },
+  {
+    "imageWidth": 3500,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Depths of the Festerwood [25x45] - $5 Rewards/Gridded/G_Festerwood_Original_Day.jpg"
+  },
+  {
+    "imageWidth": 3500,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Depths of the Festerwood [25x45] - $5 Rewards/Gridded/G_Festerwood_Winter.jpg"
+  },
+  {
+    "imageWidth": 3500,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Depths of the Festerwood [25x45] - $5 Rewards/Gridded/G_Festerwood_ElderBlueRiver.jpg"
+  },
+  {
+    "imageWidth": 3500,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Depths of the Festerwood [25x45] - $5 Rewards/Gridded/G_Festerwood_Campfire_Night.jpg"
+  },
+  {
+    "imageWidth": 3500,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Depths of the Festerwood [25x45] - $5 Rewards/Gridded/G_Festerwood_Original_Night.jpg"
+  },
+  {
+    "imageWidth": 3500,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Depths of the Festerwood [25x45] - $5 Rewards/Gridded/G_Festerwood_Meadows_Day.jpg"
+  },
+  {
+    "imageWidth": 3500,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Depths of the Festerwood [25x45] - $5 Rewards/Gridded/G_Festerwood_FaeNight.jpg"
+  },
+  {
+    "imageWidth": 3500,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Depths of the Festerwood [25x45] - $5 Rewards/Gridded/G_Festerwood_Autumn.jpg"
+  },
+  {
+    "imageWidth": 3500,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Depths of the Festerwood [25x45] - $5 Rewards/Gridded/G_Festerwood_Campfire_Day.jpg"
+  },
+  {
+    "imageWidth": 3500,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Depths of the Festerwood [25x45] - $5 Rewards/Gridded/G_Festerwood_Rain.jpg"
+  },
+  {
+    "imageWidth": 3500,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Depths of the Festerwood [25x45] - $5 Rewards/Gridded/G_Festerwood_Swamp.jpg"
+  },
+  {
+    "imageWidth": 2240,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "City Rooftop Chase [16x50]/Gridded/G_CityRooftopChase_SilentNight_Night.jpg"
+  },
+  {
+    "imageWidth": 2240,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "City Rooftop Chase [16x50]/Gridded/G_CityRooftopChase_Rain.jpg"
+  },
+  {
+    "imageWidth": 2240,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "City Rooftop Chase [16x50]/Gridded/G_CityRooftopChase_Moonlight_Night.jpg"
+  },
+  {
+    "imageWidth": 2240,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "City Rooftop Chase [16x50]/Gridded/G_CityRooftopChase_MoonlightMassacre_Night.jpg"
+  },
+  {
+    "imageWidth": 2240,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "City Rooftop Chase [16x50]/Gridded/G_CityRooftopChase_NoxiousFog_Day.jpg"
+  },
+  {
+    "imageWidth": 2240,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "City Rooftop Chase [16x50]/Gridded/G_CityRooftopChase_Original_Day.jpg"
+  },
+  {
+    "imageWidth": 2240,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "City Rooftop Chase [16x50]/Gridded/G_CityRooftopChase_GuardeGates_Night.jpg"
+  },
+  {
+    "imageWidth": 2240,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "City Rooftop Chase [16x50]/Gridded/G_CityRooftopChase_DangerousCatch_Day.jpg"
+  },
+  {
+    "imageWidth": 2240,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "City Rooftop Chase [16x50]/Gridded/G_CityRooftopChase_Snowy.jpg"
+  },
+  {
+    "imageWidth": 2240,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "City Rooftop Chase [16x50]/Gridded/G_CityRooftopChase_SlumClearing_Night.jpg"
+  },
+  {
+    "imageWidth": 6580,
+    "imageHeight": 9240,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Oasis City [47x66] /Gridded/G_OasisCity_Original_Day.jpg"
+  },
+  {
+    "imageWidth": 6580,
+    "imageHeight": 9240,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Oasis City [47x66] /Gridded/G_OasisCity_SpiderInfestation.jpg"
+  },
+  {
+    "imageWidth": 6580,
+    "imageHeight": 9240,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Oasis City [47x66] /Gridded/G_OasisCity_Sandstorm.jpg"
+  },
+  {
+    "imageWidth": 6580,
+    "imageHeight": 9240,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Oasis City [47x66] /Gridded/G_OasisCity_Train.jpg"
+  },
+  {
+    "imageWidth": 6580,
+    "imageHeight": 9240,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Oasis City [47x66] /Gridded/G_OasisCity_InvasiveBurrows.jpg"
+  },
+  {
+    "imageWidth": 6580,
+    "imageHeight": 9240,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Oasis City [47x66] /Gridded/G_OasisCity_DeadlyOasis_Day.jpg"
+  },
+  {
+    "imageWidth": 6580,
+    "imageHeight": 9240,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Oasis City [47x66] /Gridded/G_OasisCity_UnstableSpell.jpg"
+  },
+  {
+    "imageWidth": 6580,
+    "imageHeight": 9240,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Oasis City [47x66] /Gridded/G_OasisCity_Original_Night.jpg"
+  },
+  {
+    "imageWidth": 6580,
+    "imageHeight": 9240,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Oasis City [47x66] /Gridded/G_OasisCity_Flooded.jpg"
+  },
+  {
+    "imageWidth": 6580,
+    "imageHeight": 9240,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Oasis City [47x66] /Gridded/G_OasisCity_Desert.jpg"
+  },
+  {
+    "imageWidth": 6580,
+    "imageHeight": 9240,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Oasis City [47x66] /Gridded/G_OasisCity_DeadlyOasis_Night.jpg"
+  },
+  {
+    "imageWidth": 6580,
+    "imageHeight": 9240,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Oasis City [47x66] /Gridded/G_OasisCity_Torches_Night.jpg"
+  },
+  {
+    "imageWidth": 6580,
+    "imageHeight": 9240,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Oasis City [47x66] /Gridded/G_OasisCity_Station.jpg"
+  },
+  {
+    "imageWidth": 6580,
+    "imageHeight": 9240,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Oasis City [47x66] /Gridded/GL_OasisCity_Rain.jpg"
+  },
+  {
+    "imageWidth": 5040,
+    "imageHeight": 3780,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Pirate Tavern [27x36]/Gridded/G_PirateTavern_Basement_Night.jpg"
+  },
+  {
+    "imageWidth": 5040,
+    "imageHeight": 3780,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Pirate Tavern [27x36]/Gridded/G_PirateTavern_SunsetTopFloor.jpg"
+  },
+  {
+    "imageWidth": 5040,
+    "imageHeight": 3780,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Pirate Tavern [27x36]/Gridded/G_PirateTavern_Hidden_Night.jpg"
+  },
+  {
+    "imageWidth": 5040,
+    "imageHeight": 3780,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Pirate Tavern [27x36]/Gridded/G_PirateTavern_BloodTide_Day.jpg"
+  },
+  {
+    "imageWidth": 5040,
+    "imageHeight": 3780,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Pirate Tavern [27x36]/Gridded/G_PirateTavern_RocNestWithEggs_Night.jpg"
+  },
+  {
+    "imageWidth": 5040,
+    "imageHeight": 3780,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Pirate Tavern [27x36]/Gridded/G_PirateTavern_OriginalTavernLevelFullTorch_Night.jpg"
+  },
+  {
+    "imageWidth": 5040,
+    "imageHeight": 3780,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Pirate Tavern [27x36]/Gridded/G_PirateTavern_RocNestWithEggs_Day.jpg"
+  },
+  {
+    "imageWidth": 5040,
+    "imageHeight": 3780,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Pirate Tavern [27x36]/Gridded/G_PirateTavern_Sunset_Day.jpg"
+  },
+  {
+    "imageWidth": 5040,
+    "imageHeight": 3780,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Pirate Tavern [27x36]/Gridded/G_PirateTavern_OriginalTopFloor_Night.jpg"
+  },
+  {
+    "imageWidth": 5040,
+    "imageHeight": 3780,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Pirate Tavern [27x36]/Gridded/G_PirateTavern_BioluminescentTopLevel_Night.jpg"
+  },
+  {
+    "imageWidth": 5040,
+    "imageHeight": 3780,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Pirate Tavern [27x36]/Gridded/G_PirateTavern_RocNestWithRoc_Day.jpg"
+  },
+  {
+    "imageWidth": 5040,
+    "imageHeight": 3780,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Pirate Tavern [27x36]/Gridded/G_PirateTavern_RainTavernLevel.jpg"
+  },
+  {
+    "imageWidth": 5040,
+    "imageHeight": 3780,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Pirate Tavern [27x36]/Gridded/G_PirateTavern_OriginalTavernLevel_Night.jpg"
+  },
+  {
+    "imageWidth": 5040,
+    "imageHeight": 3780,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Pirate Tavern [27x36]/Gridded/G_PirateTavern_GhostShipCursedChestTopLevel_Night.jpg"
+  },
+  {
+    "imageWidth": 5040,
+    "imageHeight": 3780,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Pirate Tavern [27x36]/Gridded/G_PirateTavern_RainTopLevel.jpg"
+  },
+  {
+    "imageWidth": 5040,
+    "imageHeight": 3780,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Pirate Tavern [27x36]/Gridded/G_PirateTavern_OriginalTavernLevelPirateNight_Night.jpg"
+  },
+  {
+    "imageWidth": 5040,
+    "imageHeight": 3780,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Pirate Tavern [27x36]/Gridded/G_PirateTavern_Basement_Day.jpg"
+  },
+  {
+    "imageWidth": 5040,
+    "imageHeight": 3780,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Pirate Tavern [27x36]/Gridded/G_PirateTavern_BeachedMerfolk_Night.jpg"
+  },
+  {
+    "imageWidth": 5040,
+    "imageHeight": 3780,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Pirate Tavern [27x36]/Gridded/G_PirateTavern_BloodTideTopLevel_Day.jpg"
+  },
+  {
+    "imageWidth": 5040,
+    "imageHeight": 3780,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Pirate Tavern [27x36]/Gridded/G_PirateTavern_Bioluminescent_Night.jpg"
+  },
+  {
+    "imageWidth": 5040,
+    "imageHeight": 3780,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Pirate Tavern [27x36]/Gridded/G_PirateTavern_Hidden_Day.jpg"
+  },
+  {
+    "imageWidth": 5040,
+    "imageHeight": 3780,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Pirate Tavern [27x36]/Gridded/G_PirateTavern_OriginalTopFloor_Day.jpg"
+  },
+  {
+    "imageWidth": 5040,
+    "imageHeight": 3780,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Pirate Tavern [27x36]/Gridded/G_PirateTavern_OriginalTavernLevel_Day.jpg"
+  },
+  {
+    "imageWidth": 5040,
+    "imageHeight": 3780,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Pirate Tavern [27x36]/Gridded/G_PirateTavern_GhostShipCursedChest_Night.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Island Fort [35x35]/Gridded/G_IslandFort_Rain_GroundFloor.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Island Fort [35x35]/Gridded/G_IslandFort_GoblinFort_Roof.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Island Fort [35x35]/Gridded/G_IslandFort_Roof_Day.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Island Fort [35x35]/Gridded/G_IslandFort_GlowyPlankton.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Island Fort [35x35]/Gridded/G_IslandFort_Roof_GlowyPlankton.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Island Fort [35x35]/Gridded/G_IslandFort_Rain.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Island Fort [35x35]/Gridded/G_IslandFort_GroundFloor_Day.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Island Fort [35x35]/Gridded/G_IslandFort_Rain_Roof.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Island Fort [35x35]/Gridded/G_IslandFort_GroundFloor_Bloody_Day.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Island Fort [35x35]/Gridded/G_IslandFort_UndergroundTunnels.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Island Fort [35x35]/Gridded/G_IslandFort_Snow_GroundFloor.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Island Fort [35x35]/Gridded/G_IslandFort_Snow_Roof.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Island Fort [35x35]/Gridded/G_IslandFort_Snow.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Island Fort [35x35]/Gridded/G_IslandFort_GroundFloor_GlowyPlankton.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Island Fort [35x35]/Gridded/G_IslandFort_Roof_Night.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Island Fort [35x35]/Gridded/G_IslandFort_Roof_Bloody_Day.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Island Fort [35x35]/Gridded/G_IslandFort_Day.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Island Fort [35x35]/Gridded/G_IslandFort_Night.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Island Fort [35x35]/Gridded/G_IslandFort_GoblinFort_GroundFloor.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 4900,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Island Fort [35x35]/Gridded/G_IslandFort_GroundFloor_Night.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 3920,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Fey Village [23x28]/Gridded/G_FeyVillage_OriginalFey.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 3920,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Fey Village [23x28]/Gridded/G_FeyVillage_ThreeGateFey.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 3920,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Fey Village [23x28]/Gridded/G_FeyVillage_DayGate.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 3920,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Fey Village [23x28]/Gridded/G_FeyVillage_DarkFey.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 3920,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Fey Village [23x28]/Gridded/G_FeyVillage_UnicornDay.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 3920,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Fey Village [23x28]/Gridded/G_FeyVillage_SunsetFey.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 3920,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Fey Village [23x28]/Gridded/G_FeyVillage_MoonlightFey.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 3920,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Fey Village [23x28]/Gridded/G_FeyVillage_MoonPond.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 3920,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Fey Village [23x28]/Gridded/G_FeyVillage_NightGateFey.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 3920,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Fey Village [23x28]/Gridded/G_FeyVillage_UnicornDeadFey.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 3920,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Fey Village [23x28]/Gridded/G_FeyVillage_DayThrone.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 3920,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Fey Village [23x28]/Gridded/G_FeyVillage_SwampFey.jpg"
+  },
+  {
+    "imageWidth": 3500,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ancient Battlefield [25x45]/Gridded/G_AncientBattlefield_Spring_Day.jpg"
+  },
+  {
+    "imageWidth": 3500,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ancient Battlefield [25x45]/Gridded/G_AncientBattlefield_Swampy_Day.jpg"
+  },
+  {
+    "imageWidth": 3500,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ancient Battlefield [25x45]/Gridded/G_AncientBattlefield_Original_Day.jpg"
+  },
+  {
+    "imageWidth": 3500,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ancient Battlefield [25x45]/Gridded/G_AncientBattlefield_Camp_Day.jpg"
+  },
+  {
+    "imageWidth": 3500,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ancient Battlefield [25x45]/Gridded/G_AncientBattlefield_GoblinCamp_Day.jpg"
+  },
+  {
+    "imageWidth": 3500,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ancient Battlefield [25x45]/Gridded/G_AncientBattlefield_MagicSymbol_Night.jpg"
+  },
+  {
+    "imageWidth": 3500,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ancient Battlefield [25x45]/Gridded/G_AncientBattlefield_Fey_Day.jpg"
+  },
+  {
+    "imageWidth": 3500,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ancient Battlefield [25x45]/Gridded/G_AncientBattlefield_Winter_Day.jpg"
+  },
+  {
+    "imageWidth": 3500,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ancient Battlefield [25x45]/Gridded/G_AncientBattlefield_Original_Night.jpg"
+  },
+  {
+    "imageWidth": 3500,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ancient Battlefield [25x45]/Gridded/G_AncientBattlefield_Hell_Day.jpg"
+  },
+  {
+    "imageWidth": 3500,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ancient Battlefield [25x45]/Gridded/G_AncientBattlefield_GoblinCamp_Night.jpg"
+  },
+  {
+    "imageWidth": 3500,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ancient Battlefield [25x45]/Gridded/G_AncientBattlefield_Camp_Night.jpg"
+  },
+  {
+    "imageWidth": 3500,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ancient Battlefield [25x45]/Gridded/G_AncientBattlefield_Bloody_Day.jpg"
+  },
+  {
+    "imageWidth": 3500,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ancient Battlefield [25x45]/Gridded/G_AncientBattlefield_MagicSymbol_Day.jpg"
+  },
+  {
+    "imageWidth": 3500,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ancient Battlefield [25x45]/Gridded/G_AncientBattlefield_Poppy_Day.jpg"
+  },
+  {
+    "imageWidth": 3500,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ancient Battlefield [25x45]/Gridded/G_AncientBattlefield_Rain_Day.jpg"
+  },
+  {
+    "imageWidth": 3640,
+    "imageHeight": 5880,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Monster Festival [26x42]/Gridded/G_MonsterFestival_Music_Night.jpg"
+  },
+  {
+    "imageWidth": 3640,
+    "imageHeight": 5880,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Monster Festival [26x42]/Gridded/G_MonsterFestival_ShootingContest_EffigyBonfire_Day.jpg"
+  },
+  {
+    "imageWidth": 3640,
+    "imageHeight": 5880,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Monster Festival [26x42]/Gridded/G_MonsterFestival_Joust_Pitfight_Day.jpg"
+  },
+  {
+    "imageWidth": 3640,
+    "imageHeight": 5880,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Monster Festival [26x42]/Gridded/G_MonsterFestival_Arrow_Night.jpg"
+  },
+  {
+    "imageWidth": 3640,
+    "imageHeight": 5880,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Monster Festival [26x42]/Gridded/G_MonsterFestival_Original_Rain.jpg"
+  },
+  {
+    "imageWidth": 3640,
+    "imageHeight": 5880,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Monster Festival [26x42]/Gridded/G_MonsterFestival_Original_Night.jpg"
+  },
+  {
+    "imageWidth": 3640,
+    "imageHeight": 5880,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Monster Festival [26x42]/Gridded/G_MonsterFestival_Original_Day.jpg"
+  },
+  {
+    "imageWidth": 3640,
+    "imageHeight": 5880,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Monster Festival [26x42]/Gridded/G_MonsterFestival_Music_Day.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 3360,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Adventurer_s Guildhall [33x24]/Gridded/G_AdventurersGuildHall_OrcInvasionBurn_Night.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 3360,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Adventurer_s Guildhall [33x24]/Gridded/G_AdventurersGuildHall_HighLight_Night.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 3360,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Adventurer_s Guildhall [33x24]/Gridded/G_AdventurersGuildHall_Mushroom_Day.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 3360,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Adventurer_s Guildhall [33x24]/Gridded/G_AdventurersGuildHall_PoisonedRiver_Day.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 3360,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Adventurer_s Guildhall [33x24]/Gridded/G_AdventurersGuildHall_Snow_Day.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 3360,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Adventurer_s Guildhall [33x24]/Gridded/G_AdventurersGuildHall_PoisonedRiver_Night.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 3360,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Adventurer_s Guildhall [33x24]/Gridded/G_AdventurersGuildHall_OrcInvasionNoBurn_Night.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 3360,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Adventurer_s Guildhall [33x24]/Gridded/G_AdventurersGuildHall_Haunted_Night.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 3360,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Adventurer_s Guildhall [33x24]/Gridded/G_AdventurersGuildHall_Zombie_Day.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 3360,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Adventurer_s Guildhall [33x24]/Gridded/G_AdventurersGuildHall_OrcInvasion_Day.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 3360,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Adventurer_s Guildhall [33x24]/Gridded/G_AdventurersGuildHall_NoLight_Night.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 3360,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Adventurer_s Guildhall [33x24]/Gridded/G_AdventurersGuildHall_Spider_Day.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 3360,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Adventurer_s Guildhall [33x24]/Gridded/G_AdventurersGuildHall_Original_Day.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 3360,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Adventurer_s Guildhall [33x24]/Gridded/G_AdventurersGuildHall_Rain_Day.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 3360,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Adventurer_s Guildhall [33x24]/Gridded/G_AdventurersGuildHall_Zombie_Night.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 3360,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Adventurer_s Guildhall [33x24]/Gridded/G_AdventurersGuildHall_MinLight_Night.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 3360,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Adventurer_s Guildhall [33x24]/Gridded/G_AdventurersGuildHall_MediumLight_Night.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 3360,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Adventurer_s Guildhall [33x24]/Gridded/G_AdventurersGuildHall_Snow_Night.jpg"
+  },
+  {
+    "imageWidth": 1960,
+    "imageHeight": 4480,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Antlion Canyon [14x32]/Gridded/G_AntlionCanyon_NoxiousPits_Day.jpg"
+  },
+  {
+    "imageWidth": 1960,
+    "imageHeight": 4480,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Antlion Canyon [14x32]/Gridded/G_AntlionCanyon_BanditCamp_Day.jpg"
+  },
+  {
+    "imageWidth": 1960,
+    "imageHeight": 4480,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Antlion Canyon [14x32]/Gridded/G_AntlionCanyon_Oasis_Day.jpg"
+  },
+  {
+    "imageWidth": 1960,
+    "imageHeight": 4480,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Antlion Canyon [14x32]/Gridded/G_AntlionCanyon_Original_Day.jpg"
+  },
+  {
+    "imageWidth": 1960,
+    "imageHeight": 4480,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Antlion Canyon [14x32]/Gridded/G_AntlionCanyon_Ice_Night.jpg"
+  },
+  {
+    "imageWidth": 1960,
+    "imageHeight": 4480,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Antlion Canyon [14x32]/Gridded/G_AntlionCanyon_Ice_Day.jpg"
+  },
+  {
+    "imageWidth": 1960,
+    "imageHeight": 4480,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Antlion Canyon [14x32]/Gridded/G_AntlionCanyon_LavaVariation.jpg"
+  },
+  {
+    "imageWidth": 1960,
+    "imageHeight": 4480,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Antlion Canyon [14x32]/Gridded/G_AntlionCanyon_Blank_Day.jpg"
+  },
+  {
+    "imageWidth": 1960,
+    "imageHeight": 4480,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Antlion Canyon [14x32]/Gridded/G_AntlionCanyon_Fossils_Night.jpg"
+  },
+  {
+    "imageWidth": 1960,
+    "imageHeight": 4480,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Antlion Canyon [14x32]/Gridded/G_AntlionCanyon_Original_Night.jpg"
+  },
+  {
+    "imageWidth": 1960,
+    "imageHeight": 4480,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Antlion Canyon [14x32]/Gridded/G_AntlionCanyon_Tarpit_Day.jpg"
+  },
+  {
+    "imageWidth": 1960,
+    "imageHeight": 4480,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Antlion Canyon [14x32]/Gridded/G_AntlionCanyon_Blank_Night.jpg"
+  },
+  {
+    "imageWidth": 1960,
+    "imageHeight": 4480,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Antlion Canyon [14x32]/Gridded/G_AntlionCanyon_BanditCamp_Night.jpg"
+  },
+  {
+    "imageWidth": 1960,
+    "imageHeight": 4480,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Antlion Canyon [14x32]/Gridded/G_AntlionCanyon_Fossils_Day.jpg"
+  },
+  {
+    "imageWidth": 1960,
+    "imageHeight": 4480,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Antlion Canyon [14x32]/Gridded/G_AntlionCanyon_Grassland_Night.jpg"
+  },
+  {
+    "imageWidth": 1960,
+    "imageHeight": 4480,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Antlion Canyon [14x32]/Gridded/G_AntlionCanyon_Grassland_Day.jpg"
+  },
+  {
+    "imageWidth": 3780,
+    "imageHeight": 7980,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Couatl Exterior [27x57]/Gridded/G_CouatlExterior_Nofire_Night.jpg"
+  },
+  {
+    "imageWidth": 3780,
+    "imageHeight": 7980,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Couatl Exterior [27x57]/Gridded/G_CouatlExterior_Whirpool_Day.jpg"
+  },
+  {
+    "imageWidth": 3780,
+    "imageHeight": 7980,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Couatl Exterior [27x57]/Gridded/G_CouatlExterior_Original_Night.jpg"
+  },
+  {
+    "imageWidth": 3780,
+    "imageHeight": 7980,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Couatl Exterior [27x57]/Gridded/G_CouatlExterior_Sunset.jpg"
+  },
+  {
+    "imageWidth": 3780,
+    "imageHeight": 7980,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Couatl Exterior [27x57]/Gridded/G_CouatlExterior_BloodTempleOrange_Night.jpg"
+  },
+  {
+    "imageWidth": 3780,
+    "imageHeight": 7980,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Couatl Exterior [27x57]/Gridded/G_CouatlExterior_BloodTrail.jpg"
+  },
+  {
+    "imageWidth": 3780,
+    "imageHeight": 7980,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Couatl Exterior [27x57]/Gridded/G_CouatlExterior_GlowingWater2_Night.jpg"
+  },
+  {
+    "imageWidth": 3780,
+    "imageHeight": 7980,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Couatl Exterior [27x57]/Gridded/G_CouatlExterior_NofireDesert_Night.jpg"
+  },
+  {
+    "imageWidth": 3780,
+    "imageHeight": 7980,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Couatl Exterior [27x57]/Gridded/G_CouatlExterior_Sacrifice_Night.jpg"
+  },
+  {
+    "imageWidth": 3780,
+    "imageHeight": 7980,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Couatl Exterior [27x57]/Gridded/G_CouatlExterior_IlluminatedSymbols_Night.jpg"
+  },
+  {
+    "imageWidth": 3780,
+    "imageHeight": 7980,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Couatl Exterior [27x57]/Gridded/G_CouatlExterior_Original_Day.jpg"
+  },
+  {
+    "imageWidth": 3780,
+    "imageHeight": 7980,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Couatl Exterior [27x57]/Gridded/G_CouatlExterior_Jungle_Night.jpg"
+  },
+  {
+    "imageWidth": 3780,
+    "imageHeight": 7980,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Couatl Exterior [27x57]/Gridded/G_CouatlExterior_Desert_Day.jpg"
+  },
+  {
+    "imageWidth": 3780,
+    "imageHeight": 7980,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Couatl Exterior [27x57]/Gridded/G_CouatlExterior_GlowingWater_Night.jpg"
+  },
+  {
+    "imageWidth": 3780,
+    "imageHeight": 7980,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Couatl Exterior [27x57]/Gridded/G_CouatlExterior_Jungle_Day.jpg"
+  },
+  {
+    "imageWidth": 3780,
+    "imageHeight": 7980,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Couatl Exterior [27x57]/Gridded/G_CouatlExterior_Desert_Night.jpg"
+  },
+  {
+    "imageWidth": 3780,
+    "imageHeight": 7980,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Couatl Exterior [27x57]/Gridded/G_CouatlExterior_Rain.jpg"
+  },
+  {
+    "imageWidth": 3780,
+    "imageHeight": 7980,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Couatl Exterior [27x57]/Gridded/G_CouatlExterior_BloodTemple_Night.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Drakescale Peak [35x50]/Gridded/G_DrakescalePeak_FaeInfestation.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Drakescale Peak [35x50]/Gridded/G_DrakescalePeak_SlimeInvasion.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Drakescale Peak [35x50]/Gridded/G_DrakescalePeak_Original.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Drakescale Peak [35x50]/Gridded/G_DrakescalePeak_Raided_NoDragon.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Drakescale Peak [35x50]/Gridded/G_DrakescalePeak_Underdark.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Drakescale Peak [35x50]/Gridded/G_DrakescalePeak_Raided_Dragon.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Drakescale Peak [35x50]/Gridded/G_DrakescalePeak_CaveIn.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Drakescale Peak [35x50]/Gridded/G_DrakescalePeak_Night.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Drakescale Peak [35x50]/Gridded/G_DrakescalePeak_CaveIn2.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 5740,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Steampunk Warforged Factory [33x41]/Gridded/G_WarforgedFactory_Original_Day.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 5740,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Steampunk Warforged Factory [33x41]/Gridded/G_WarforgedFactory_Original_Night.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 5740,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Steampunk Warforged Factory [33x41]/Gridded/G_WarforgedFactory_Alarm_Night.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 5740,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Steampunk Warforged Factory [33x41]/Gridded/G_WarforgedFactory_Jungle_Day.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 5740,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Steampunk Warforged Factory [33x41]/Gridded/G_WarforgedFactory_Mournlands_Day.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 5740,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Steampunk Warforged Factory [33x41]/Gridded/G_WarforgedFactory_Desert_Day.jpg"
+  },
+  {
+    "imageWidth": 2940,
+    "imageHeight": 6860,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Zen Monastery [21x49]/Gridded/G_ZenMonastary_Spring_Night.jpg"
+  },
+  {
+    "imageWidth": 2940,
+    "imageHeight": 6860,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Zen Monastery [21x49]/Gridded/G_ZenMonastary_Autumn_Night.jpg"
+  },
+  {
+    "imageWidth": 2940,
+    "imageHeight": 6860,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Zen Monastery [21x49]/Gridded/G_ZenMonastary_Winter_Night.jpg"
+  },
+  {
+    "imageWidth": 2940,
+    "imageHeight": 6860,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Zen Monastery [21x49]/Gridded/G_ZenMonastary_Spring_Day.jpg"
+  },
+  {
+    "imageWidth": 2940,
+    "imageHeight": 6860,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Zen Monastery [21x49]/Gridded/G_ZenMonastary_Winter_Day.jpg"
+  },
+  {
+    "imageWidth": 2940,
+    "imageHeight": 6860,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Zen Monastery [21x49]/Gridded/G_ZenMonastary_Catfish_Night.jpg"
+  },
+  {
+    "imageWidth": 2940,
+    "imageHeight": 6860,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Zen Monastery [21x49]/Gridded/G_ZenMonastary_Original_Day.jpg"
+  },
+  {
+    "imageWidth": 2940,
+    "imageHeight": 6860,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Zen Monastery [21x49]/Gridded/G_ZenMonastary_NoLights_Night.jpg"
+  },
+  {
+    "imageWidth": 2940,
+    "imageHeight": 6860,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Zen Monastery [21x49]/Gridded/G_ZenMonastary_Original_Night.jpg"
+  },
+  {
+    "imageWidth": 2940,
+    "imageHeight": 6860,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Zen Monastery [21x49]/Gridded/G_ZenMonastary_Rain_Day.jpg"
+  },
+  {
+    "imageWidth": 2940,
+    "imageHeight": 6860,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Zen Monastery [21x49]/Gridded/G_ZenMonastary_Autumn_Day.jpg"
+  },
+  {
+    "imageWidth": 2940,
+    "imageHeight": 6860,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Zen Monastery [21x49]/Gridded/G_ZenMonastary_Dragon_Day.jpg"
+  },
+  {
+    "imageWidth": 2940,
+    "imageHeight": 6860,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Zen Monastery [21x49]/Gridded/G_ZenMonastary_Catfish_Day.jpg"
+  },
+  {
+    "imageWidth": 2940,
+    "imageHeight": 6860,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Zen Monastery [21x49]/Gridded/G_ZenMonastary_Dragon_Night.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_CloudSky_02_Night.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_CycloneBig.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_CloudSky_05_Day.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_Overcast.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_StormLightning.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_CloudSky_04_Night.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_Sea.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_CanyonOutposts_Day.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_Canyonlava.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_DragonRock_MagicGiantTree.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_CloudSky_04_Day.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_River.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_CanyonPlain_Day.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_CloudSky_03_Night.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_PrismaticPortal.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_DragonRock_RunesOff.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_Airship.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_RiverLava.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_CloudSky_05_Night.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_JaggedRocks.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_Sunset.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_SwirlSky.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_CanyonOutposts_Night.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_SeaStatues.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_CloudSky_02_Day.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_CycloneMedium.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_CloudSky_03_Day.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_DragonRock_RunesOn.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_CloudSky_01_Day.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_Rain.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_CloudSky_01_Night.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_CyclonesMultiple.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_DragonRock_GiantTree.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_Storm.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_SeaMaelstrom.jpg"
+  },
+  {
+    "imageWidth": 6300,
+    "imageHeight": 6300,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mid-Air Dragon Flight [45x45]/Gridded/G_DragonMidFlight_CanyonPlain_Night.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 3640,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Vampire Mansion [35x26]/Gridded/G_VampireMansion_FogTopFloor_Day.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 3640,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Vampire Mansion [35x26]/Gridded/G_VampireMansion_OriginalTopFloor_Day.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 3640,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Vampire Mansion [35x26]/Gridded/G_VampireMansion_GiantBasement.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 3640,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Vampire Mansion [35x26]/Gridded/G_VampireMansion_OriginalTop_Night.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 3640,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Vampire Mansion [35x26]/Gridded/G_VampireMansion_NormalMansionTopFloor_Day.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 3640,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Vampire Mansion [35x26]/Gridded/G_VampireMansion_GroundGhost.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 3640,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Vampire Mansion [35x26]/Gridded/G_VampireMansion_Snow_Day.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 3640,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Vampire Mansion [35x26]/Gridded/G_VampireMansion_Original_Night.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 3640,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Vampire Mansion [35x26]/Gridded/G_VampireMansion_VillageBattleTopFloor_Day.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 3640,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Vampire Mansion [35x26]/Gridded/G_VampireMansion_TopLevelGhost.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 3640,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Vampire Mansion [35x26]/Gridded/G_VampireMansion_BasementCult_Day.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 3640,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Vampire Mansion [35x26]/Gridded/G_VampireMansion_Fog_Day.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 3640,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Vampire Mansion [35x26]/Gridded/G_VampireMansion_NormalMansion_Day.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 3640,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Vampire Mansion [35x26]/Gridded/G_VampireMansion_Rain_Day.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 3640,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Vampire Mansion [35x26]/Gridded/G_VampireMansion_Original_Day.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 3640,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Vampire Mansion [35x26]/Gridded/G_VampireMansion_RainTopFloor_Day.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 3640,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Vampire Mansion [35x26]/Gridded/G_VampireMansion_VillageBattle_Day.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 3640,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Vampire Mansion [35x26]/Gridded/G_VampireMansion_BasementGhost_Day.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 3640,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Vampire Mansion [35x26]/Gridded/G_VampireMansion_SnowTopFloor_Day.jpg"
+  },
+  {
+    "imageWidth": 4900,
+    "imageHeight": 3640,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Vampire Mansion [35x26]/Gridded/G_VampireMansion_OriginalBasement.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5040,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mountaintop Altar [23x36]/Gridded/G_MountaintopAltar_Skydoor_Night.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5040,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mountaintop Altar [23x36]/Gridded/G_MountaintopAltar_Sword_Night.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5040,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mountaintop Altar [23x36]/Gridded/G_MountaintopAltar_VillageConstellation_Night.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5040,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mountaintop Altar [23x36]/Gridded/G_MountaintopAltar_Crack_Night.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5040,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mountaintop Altar [23x36]/Gridded/G_MountaintopAltar_Skydoor_Day.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5040,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mountaintop Altar [23x36]/Gridded/G_MountaintopAltar_Sword_Day.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5040,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mountaintop Altar [23x36]/Gridded/G_MountaintopAltar_Village_Night.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5040,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mountaintop Altar [23x36]/Gridded/G_MountaintopAltar_BloodySkydoor_Night.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5040,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mountaintop Altar [23x36]/Gridded/G_MountaintopAltar_Village_Day.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5040,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mountaintop Altar [23x36]/Gridded/G_MountaintopAltar_StormGiant_Night.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5040,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mountaintop Altar [23x36]/Gridded/G_MountaintopAltar_GreenShrine_Day.jpg"
+  },
+  {
+    "imageWidth": 3220,
+    "imageHeight": 5040,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mountaintop Altar [23x36]/Gridded/G_MountaintopAltar_GreenShrine_Night.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 11060,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Grand Opera House [42x79]/Gridded/G_GrandOperaHouse_Assassination.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 11060,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Grand Opera House [42x79]/Gridded/G_GrandOperaHouse_CinemaMovieFin.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 11060,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Grand Opera House [42x79]/Gridded/G_GrandOperaHouse_BloodTide.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 11060,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Grand Opera House [42x79]/Gridded/G_GrandOperaHouse_RedLighting.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 11060,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Grand Opera House [42x79]/Gridded/G_GrandOperaHouse_Entrance.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 11060,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Grand Opera House [42x79]/Gridded/G_GrandOperaHouse_OperaFire.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 11060,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Grand Opera House [42x79]/Gridded/G_GrandOperaHouse_Underwater.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 11060,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Grand Opera House [42x79]/Gridded/G_GrandOperaHouse_NewYear.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 11060,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Grand Opera House [42x79]/Gridded/G_GrandOperaHouse_CinemaBlank.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 11060,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Grand Opera House [42x79]/Gridded/G_GrandOperaHouse_BlueLighting.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 11060,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Grand Opera House [42x79]/Gridded/G_GrandOperaHouse_Auction.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 11060,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Grand Opera House [42x79]/Gridded/G_GrandOperaHouse_Spotlight.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 11060,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Grand Opera House [42x79]/Gridded/G_GrandOperaHouse_UnderwaterShellOpen.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 11060,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Grand Opera House [42x79]/Gridded/G_GrandOperaHouse_Original.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 11060,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Grand Opera House [42x79]/Gridded/G_GrandOperaHouse_OnIce.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 11060,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Grand Opera House [42x79]/Gridded/G_GrandOperaHouse_MoonLight.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 11060,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Grand Opera House [42x79]/Gridded/G_GrandOperaHouse_SpookyNight.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 11060,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Grand Opera House [42x79]/Gridded/G_GrandOperaHouse_RomeoJuliet.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 11060,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Grand Opera House [42x79]/Gridded/G_GrandOperaHouse_GreenLighting.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 11060,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Grand Opera House [42x79]/Gridded/G_GrandOperaHouse_PhantomFire.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 11060,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Grand Opera House [42x79]/Gridded/G_GrandOperaHouse_ZenTemple.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 11060,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Grand Opera House [42x79]/Gridded/G_GrandOperaHouse_LightsOut.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 11060,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Grand Opera House [42x79]/Gridded/G_GrandOperaHouse_UnderwaterShellClosed.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 11060,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Grand Opera House [42x79]/Gridded/G_GrandOperaHouse_GeneralLighting.jpg"
+  },
+  {
+    "imageWidth": 4200,
+    "imageHeight": 4200,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Realm of Dreams [30x30]/Gridded/G_RealmOfDreams_Original_Day.jpg"
+  },
+  {
+    "imageWidth": 4200,
+    "imageHeight": 4200,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Realm of Dreams [30x30]/Gridded/G_RealmOfDreams_BottomMiddleDragons_Day.jpg"
+  },
+  {
+    "imageWidth": 4200,
+    "imageHeight": 4200,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Realm of Dreams [30x30]/Gridded/G_RealmOfDreams_TopLeftSword_Day.jpg"
+  },
+  {
+    "imageWidth": 4200,
+    "imageHeight": 4200,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Realm of Dreams [30x30]/Gridded/G_RealmOfDreams_TopLeftSword_Night.jpg"
+  },
+  {
+    "imageWidth": 4200,
+    "imageHeight": 4200,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Realm of Dreams [30x30]/Gridded/G_RealmOfDreams_TopMiddlePlanets_Night.jpg"
+  },
+  {
+    "imageWidth": 4200,
+    "imageHeight": 4200,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Realm of Dreams [30x30]/Gridded/G_RealmOfDreams_TopRightBeholder_Night.jpg"
+  },
+  {
+    "imageWidth": 4200,
+    "imageHeight": 4200,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Realm of Dreams [30x30]/Gridded/G_RealmOfDreams_BottomMiddleDragons_Night.jpg"
+  },
+  {
+    "imageWidth": 4200,
+    "imageHeight": 4200,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Realm of Dreams [30x30]/Gridded/G_RealmOfDreams_BottomRightPirateShip_Night.jpg"
+  },
+  {
+    "imageWidth": 4200,
+    "imageHeight": 4200,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Realm of Dreams [30x30]/Gridded/G_RealmOfDreams_MiddleLeftUnicorn_Day.jpg"
+  },
+  {
+    "imageWidth": 4200,
+    "imageHeight": 4200,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Realm of Dreams [30x30]/Gridded/G_RealmOfDreams_TopRightBeholder_Day.jpg"
+  },
+  {
+    "imageWidth": 4200,
+    "imageHeight": 4200,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Realm of Dreams [30x30]/Gridded/G_RealmOfDreams_Original_Night.jpg"
+  },
+  {
+    "imageWidth": 4200,
+    "imageHeight": 4200,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Realm of Dreams [30x30]/Gridded/G_RealmOfDreams_RightMiddleTree_Day.jpg"
+  },
+  {
+    "imageWidth": 12600,
+    "imageHeight": 12600,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 420,
+    "cellHeight": 420,
+    "path": "Realm of Dreams [30x30]/Gridded/G_RealmOfDreams_FullMap_Day.jpg"
+  },
+  {
+    "imageWidth": 4200,
+    "imageHeight": 4200,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Realm of Dreams [30x30]/Gridded/G_RealmOfDreams_TopMiddlePlanets_Day.jpg"
+  },
+  {
+    "imageWidth": 4200,
+    "imageHeight": 4200,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Realm of Dreams [30x30]/Gridded/G_RealmOfDreams_BottomRightPirateShip_Day.jpg"
+  },
+  {
+    "imageWidth": 4200,
+    "imageHeight": 4200,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Realm of Dreams [30x30]/Gridded/G_RealmOfDreams_BottomLeftWhaleboats_Day.jpg"
+  },
+  {
+    "imageWidth": 4200,
+    "imageHeight": 4200,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Realm of Dreams [30x30]/Gridded/G_RealmOfDreams_RightMiddleTree_Night.jpg"
+  },
+  {
+    "imageWidth": 12600,
+    "imageHeight": 12600,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 420,
+    "cellHeight": 420,
+    "path": "Realm of Dreams [30x30]/Gridded/G_RealmOfDreams_FullMap_Night.jpg"
+  },
+  {
+    "imageWidth": 4200,
+    "imageHeight": 4200,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Realm of Dreams [30x30]/Gridded/G_RealmOfDreams_BottomLeftWhaleboats_Night.jpg"
+  },
+  {
+    "imageWidth": 4200,
+    "imageHeight": 4200,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Realm of Dreams [30x30]/Gridded/G_RealmOfDreams_MiddleLeftUnicorn_Night.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 8260,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Shadowfell Fortress Interior [42x59]/Gridded/G_ShadowfellFortressInterior_Monochrome_Floor_B1.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 8260,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Shadowfell Fortress Interior [42x59]/Gridded/G_ShadowfellFortressInterior_Floor_B1.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 8260,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Shadowfell Fortress Interior [42x59]/Gridded/G_ShadowfellFortressInterior_Floor_2.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 8260,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Shadowfell Fortress Interior [42x59]/Gridded/G_ShadowfellFortressInterior_Monochrome_Floor_G.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 8260,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Shadowfell Fortress Interior [42x59]/Gridded/G_ShadowfellFortressInterior_Monochrome_Floor_1.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 8260,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Shadowfell Fortress Interior [42x59]/Gridded/G_ShadowfellFortressInterior_Floor_1.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 8260,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Shadowfell Fortress Interior [42x59]/Gridded/G_ShadowfellFortressInterior_Floor_G.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 8260,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Shadowfell Fortress Interior [42x59]/Gridded/G_ShadowfellFortressInterior_Monochrome_Floor_2.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 8260,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Shadowfell Fortress Interior [42x59]/Gridded/G_ShadowfellFortressInterior_Lava.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 8260,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Shadowfell Fortress Interior [42x59]/Gridded/G_ShadowfellFortressInterior_SkyFort_Day.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 8260,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Shadowfell Fortress Interior [42x59]/Gridded/G_ShadowfellFortressInterior_NoMonsterFloor_B1.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 8260,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Shadowfell Fortress Interior [42x59]/Gridded/G_ShadowfellFortressInterior_SkyFort_Night.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 8260,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Shadowfell Fortress Interior [42x59]/Gridded/G_ShadowfellFortressInterior_WinterFort.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 8260,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Shadowfell Fortress Interior [42x59]/Gridded/G_ShadowfellFortressInterior_NoChains.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 8260,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Shadowfell Fortress Interior [42x59]/Gridded/G_ShadowfellFortressInterior_NoMonsterFloor_1.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 8260,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Shadowfell Fortress Interior [42x59]/Gridded/G_ShadowfellFortressInterior_NoMonsterFloor_G.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 8260,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Shadowfell Fortress Interior [42x59]/Gridded/G_ShadowfellFortressInterior_Original.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 8260,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Shadowfell Fortress Interior [42x59]/Gridded/G_ShadowfellFortressInterior_NoMonsterFloor_2.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 8260,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Shadowfell Fortress Interior [42x59]/Gridded/G_ShadowfellFortressInterior_CountryFort.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 8260,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Shadowfell Fortress Interior [42x59]/Gridded/G_ShadowfellFortressInterior_OceanFort.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 8260,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Shadowfell Fortress Interior [42x59]/Gridded/G_ShadowfellFortressInterior_Rain.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 8260,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Shadowfell Fortress Interior [42x59]/Gridded/G_ShadowfellFortressInterior_Monochrome_Original.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 8260,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Shadowfell Fortress Interior [42x59]/Gridded/G_ShadowfellFortressInterior_Underwater.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 8260,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Shadowfell Fortress Interior [42x59]/Gridded/G_ShadowfellFortressInterior_AstralFort.jpg"
+  },
+  {
+    "imageWidth": 5880,
+    "imageHeight": 8260,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Shadowfell Fortress Interior [42x59]/Gridded/G_ShadowfellFortressInterior_NoCrossbows.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 2940,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Abandoned Mine Entrance [33x21] - $5 Rewards/Gridded/G_AbandonedMineEntrance_HellgateDesert_Night.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 2940,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Abandoned Mine Entrance [33x21] - $5 Rewards/Gridded/G_AbandonedMineEntrance_Original.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 2940,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Abandoned Mine Entrance [33x21] - $5 Rewards/Gridded/G_AbandonedMineEntrance_Original_Night.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 2940,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Abandoned Mine Entrance [33x21] - $5 Rewards/Gridded/G_AbandonedMineEntrance_Desert_Day.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 2940,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Abandoned Mine Entrance [33x21] - $5 Rewards/Gridded/G_AbandonedMineEntrance_Crystal.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 2940,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Abandoned Mine Entrance [33x21] - $5 Rewards/Gridded/G_AbandonedMineEntrance_Goblin_Day.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 2940,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Abandoned Mine Entrance [33x21] - $5 Rewards/Gridded/G_AbandonedMineEntrance_Goblin_Night.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 2940,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Abandoned Mine Entrance [33x21] - $5 Rewards/Gridded/G_AbandonedMineEntrance_SpiderWeb_Day.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 2940,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Abandoned Mine Entrance [33x21] - $5 Rewards/Gridded/G_AbandonedMineEntrance_FireyEntranceDesert_Night.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 2940,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Abandoned Mine Entrance [33x21] - $5 Rewards/Gridded/G_AbandonedMineEntrance_SpiderWeb_Night.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 2940,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Abandoned Mine Entrance [33x21] - $5 Rewards/Gridded/G_AbandonedMineEntrance_EscapedDragon_Night.jpg"
+  },
+  {
+    "imageWidth": 4620,
+    "imageHeight": 2940,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Abandoned Mine Entrance [33x21] - $5 Rewards/Gridded/G_AbandonedMineEntrance_Dragon_Day.jpg"
+  },
+  {
+    "imageWidth": 4480,
+    "imageHeight": 7840,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Necropolis Entrance [32x56]/Gridded/G_NecropolisEntrance_NaturalTorch_Night.jpg"
+  },
+  {
+    "imageWidth": 4480,
+    "imageHeight": 7840,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Necropolis Entrance [32x56]/Gridded/G_NecropolisEntrance_LavaTemple.jpg"
+  },
+  {
+    "imageWidth": 4480,
+    "imageHeight": 7840,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Necropolis Entrance [32x56]/Gridded/G_NecropolisEntrance_Underworld_Night.jpg"
+  },
+  {
+    "imageWidth": 4480,
+    "imageHeight": 7840,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Necropolis Entrance [32x56]/Gridded/G_NecropolisEntrance_ClosedDoors_Night.jpg"
+  },
+  {
+    "imageWidth": 4480,
+    "imageHeight": 7840,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Necropolis Entrance [32x56]/Gridded/G_NecropolisEntrance_Original_Night.jpg"
+  },
+  {
+    "imageWidth": 4480,
+    "imageHeight": 7840,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Necropolis Entrance [32x56]/Gridded/G_NecropolisEntrance_NoStatue_Night.jpg"
+  },
+  {
+    "imageWidth": 4480,
+    "imageHeight": 7840,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Necropolis Entrance [32x56]/Gridded/G_NecropolisEntrance_Torch_Night.jpg"
+  },
+  {
+    "imageWidth": 4480,
+    "imageHeight": 7840,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Necropolis Entrance [32x56]/Gridded/G_NecropolisEntrance_Original_Day.jpg"
+  },
+  {
+    "imageWidth": 4480,
+    "imageHeight": 7840,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Necropolis Entrance [32x56]/Gridded/G_NecropolisEntrance_FireDeity.jpg"
+  },
+  {
+    "imageWidth": 4480,
+    "imageHeight": 7840,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Necropolis Entrance [32x56]/Gridded/G_NecropolisEntrance_DeathRay.jpg"
+  },
+  {
+    "imageWidth": 4480,
+    "imageHeight": 7840,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Necropolis Entrance [32x56]/Gridded/G_NecropolisEntrance_Apparition.jpg"
+  },
+  {
+    "imageWidth": 4480,
+    "imageHeight": 7840,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Necropolis Entrance [32x56]/Gridded/G_NecropolisEntrance_ArchaeologicalDigSite_Day.jpg"
+  },
+  {
+    "imageWidth": 4480,
+    "imageHeight": 7840,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Necropolis Entrance [32x56]/Gridded/G_NecropolisEntrance_BanditBarricade_Night.jpg"
+  },
+  {
+    "imageWidth": 4480,
+    "imageHeight": 7840,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Necropolis Entrance [32x56]/Gridded/G_NecropolisEntrance_Rain.jpg"
+  },
+  {
+    "imageWidth": 4480,
+    "imageHeight": 7840,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Necropolis Entrance [32x56]/Gridded/G_NecropolisEntrance_BanditBarricade_Day.jpg"
+  },
+  {
+    "imageWidth": 4480,
+    "imageHeight": 7840,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Necropolis Entrance [32x56]/Gridded/G_NecropolisEntrance_NoStatue_Day.jpg"
+  },
+  {
+    "imageWidth": 4480,
+    "imageHeight": 7840,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Necropolis Entrance [32x56]/Gridded/G_NecropolisEntrance_NeonDeity.jpg"
+  },
+  {
+    "imageWidth": 4480,
+    "imageHeight": 7840,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Necropolis Entrance [32x56]/Gridded/G_NecropolisEntrance_IceTemple.jpg"
+  },
+  {
+    "imageWidth": 4480,
+    "imageHeight": 7840,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Necropolis Entrance [32x56]/Gridded/G_NecropolisEntrance_Natural_Night.jpg"
+  },
+  {
+    "imageWidth": 4480,
+    "imageHeight": 7840,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Necropolis Entrance [32x56]/Gridded/G_NecropolisEntrance_Bloodmoon_Night.jpg"
+  },
+  {
+    "imageWidth": 4480,
+    "imageHeight": 7840,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Necropolis Entrance [32x56]/Gridded/G_NecropolisEntrance_BloodDeity.jpg"
+  },
+  {
+    "imageWidth": 4480,
+    "imageHeight": 7840,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Necropolis Entrance [32x56]/Gridded/G_NecropolisEntrance_Natural_Day.jpg"
+  },
+  {
+    "imageWidth": 4480,
+    "imageHeight": 7840,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Necropolis Entrance [32x56]/Gridded/G_NecropolisEntrance_ClosedDoors_Day.jpg"
+  },
+  {
+    "imageWidth": 4480,
+    "imageHeight": 7840,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Necropolis Entrance [32x56]/Gridded/G_NecropolisEntrance_Verdant.jpg"
+  },
+  {
+    "imageWidth": 4480,
+    "imageHeight": 7840,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Necropolis Entrance [32x56]/Gridded/G_NecropolisEntrance_Desert.jpg"
+  },
+  {
+    "imageWidth": 5600,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ogre Queen Feast [40x50]/Gridded/G_OgreQueenFeast_Original.jpg"
+  },
+  {
+    "imageWidth": 5600,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ogre Queen Feast [40x50]/Gridded/G_OgreQueenFeast_TimeStop_Day.jpg"
+  },
+  {
+    "imageWidth": 5600,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ogre Queen Feast [40x50]/Gridded/G_OgreQueenFeast_BloodBath_Day.jpg"
+  },
+  {
+    "imageWidth": 5600,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ogre Queen Feast [40x50]/Gridded/G_OgreQueenFeast_BloodBath_Night.jpg"
+  },
+  {
+    "imageWidth": 5600,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ogre Queen Feast [40x50]/Gridded/G_OgreQueenFeast_Fire_Night.jpg"
+  },
+  {
+    "imageWidth": 5600,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ogre Queen Feast [40x50]/Gridded/G_OgreQueenFeast_Moonlit_Night.jpg"
+  },
+  {
+    "imageWidth": 5600,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ogre Queen Feast [40x50]/Gridded/G_OgreQueenFeast_Fog_Night.jpg"
+  },
+  {
+    "imageWidth": 5600,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ogre Queen Feast [40x50]/Gridded/G_OgreQueenFeast_TimeStop_Night.jpg"
+  },
+  {
+    "imageWidth": 5600,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ogre Queen Feast [40x50]/Gridded/G_OgreQueenFeast_BrokenBridge_Night.jpg"
+  },
+  {
+    "imageWidth": 5600,
+    "imageHeight": 7000,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Ogre Queen Feast [40x50]/Gridded/G_OgreQueenFeast_BrokenBridge_Day.jpg"
+  },
+  {
+    "imageWidth": 2520,
+    "imageHeight": 4340,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mountain Monastery [18x31]/Gridded/G_MountainMonastary_BrokenBridge_Night.jpg"
+  },
+  {
+    "imageWidth": 2520,
+    "imageHeight": 4340,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mountain Monastery [18x31]/Gridded/G_MountainMonastary_Rain_Day.jpg"
+  },
+  {
+    "imageWidth": 2520,
+    "imageHeight": 4340,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mountain Monastery [18x31]/Gridded/G_MountainMonastary_Fire_Day.jpg"
+  },
+  {
+    "imageWidth": 2520,
+    "imageHeight": 4340,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mountain Monastery [18x31]/Gridded/G_MountainMonastary_Jungle_Night.jpg"
+  },
+  {
+    "imageWidth": 2520,
+    "imageHeight": 4340,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mountain Monastery [18x31]/Gridded/G_MountainMonastary_Original_Day.jpg"
+  },
+  {
+    "imageWidth": 2520,
+    "imageHeight": 4340,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mountain Monastery [18x31]/Gridded/G_MountainMonastary_Bloodmoon_Night.jpg"
+  },
+  {
+    "imageWidth": 2520,
+    "imageHeight": 4340,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mountain Monastery [18x31]/Gridded/G_MountainMonastary_Fire_Night.jpg"
+  },
+  {
+    "imageWidth": 2520,
+    "imageHeight": 4340,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mountain Monastery [18x31]/Gridded/G_MountainMonastary_Jungle_Day.jpg"
+  },
+  {
+    "imageWidth": 2520,
+    "imageHeight": 4340,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mountain Monastery [18x31]/Gridded/G_MountainMonastary_Rain_Night.jpg"
+  },
+  {
+    "imageWidth": 2520,
+    "imageHeight": 4340,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mountain Monastery [18x31]/Gridded/G_MountainMonastary_BrokenBridge_Day.jpg"
+  },
+  {
+    "imageWidth": 2520,
+    "imageHeight": 4340,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mountain Monastery [18x31]/Gridded/G_MountainMonastary_Ice_Day.jpg"
+  },
+  {
+    "imageWidth": 2520,
+    "imageHeight": 4340,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mountain Monastery [18x31]/Gridded/G_MountainMonastary_Spring_Day.jpg"
+  },
+  {
+    "imageWidth": 2520,
+    "imageHeight": 4340,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mountain Monastery [18x31]/Gridded/G_MountainMonastary_EtherealNight_Night.jpg"
+  },
+  {
+    "imageWidth": 2520,
+    "imageHeight": 4340,
+    "cellOffsetX": 0,
+    "cellOffsetY": 0,
+    "cellWidth": 140,
+    "cellHeight": 140,
+    "path": "Mountain Monastery [18x31]/Gridded/G_MountainMonastary_Original_Night.jpg"
+  }
+]
