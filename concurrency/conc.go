@@ -6,29 +6,29 @@ import (
 	"time"
 )
 
-type callbackFunc func(stat BulkWriterStatus)
+type callbackFunc func(stat QueueStatus)
 
-type BulkWriterStatus struct {
+type QueueStatus struct {
 	Status int
 	Datum  interface{}
 }
 
-type BulkWriterOperation struct {
-	a BulkWriterStatus
+type QueueOperation struct {
+	a QueueStatus
 	f callbackFunc
 }
 
-type BulkWriter struct {
+type Queue struct {
 	C      string
-	Queue  []BulkWriterOperation
+	Queue  []QueueOperation
 	numOps int
 }
 
-func (b *BulkWriter) enqueue(op BulkWriterOperation) {
+func (b *Queue) enqueue(op QueueOperation) {
 	b.Queue = append(b.Queue, op)
 }
 
-func (b *BulkWriter) dequeue() *BulkWriterOperation {
+func (b *Queue) dequeue() *QueueOperation {
 	if len(b.Queue) <= 0 {
 		return nil
 	}
@@ -38,30 +38,30 @@ func (b *BulkWriter) dequeue() *BulkWriterOperation {
 	return &op
 }
 
-func (b *BulkWriter) Do(datum interface{}, fn callbackFunc) {
+func (b *Queue) Do(datum interface{}, fn callbackFunc) {
 	b.numOps++
 
-	s := BulkWriterStatus{Datum: datum, Status: 0}
+	s := QueueStatus{Datum: datum, Status: 0}
 
-	b.enqueue(BulkWriterOperation{a: s, f: fn})
+	b.enqueue(QueueOperation{a: s, f: fn})
 	go b.execute()
 
 }
 
-func (b *BulkWriter) execute() {
+func (b *Queue) execute() {
 	op := b.dequeue()
 	op.a.Status = fakeBlockingCall()
 	op.f(op.a)
 	b.numOps--
 }
 
-func (b *BulkWriter) Close() {
+func (b *Queue) Close() {
 	for b.numOps > 0 {
 	}
 }
 
 func fakeBlockingCall() int {
-	rand.Seed(42)
+	rand.NewSource(time.Now().UnixNano())
 	o := rand.Intn(10)
 	t := rand.Int63n(2000)
 	time.Sleep(time.Duration(t))
@@ -69,23 +69,23 @@ func fakeBlockingCall() int {
 }
 
 func main() {
-	bw := BulkWriter{C: "my bulkwriter"}
-	defer bw.Close()
+	var q Queue
+	defer q.Close()
 
-	fn := func(s BulkWriterStatus) {
+	fn := func(s QueueStatus) {
 		fmt.Println("Callback!")
 		fmt.Println(s.Datum)
 		fmt.Println(s.Status)
 	}
 
-	bw.Do("foo", fn)
-	bw.Do("bar", fn)
-	bw.Do("baz", fn)
+	q.Do("one", fn)
+	q.Do("two", fn)
+	q.Do("three", fn)
 
-	fmt.Printf("%v\n", bw.Queue)
-	for op := range bw.Queue {
+	fmt.Printf("%v\n", q.Queue)
+	for op := range q.Queue {
 		fmt.Println(op)
 	}
-	fmt.Printf("%v\n", bw.Queue)
+	fmt.Printf("%v\n", q.Queue)
 
 }

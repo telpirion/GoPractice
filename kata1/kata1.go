@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"io/fs"
-	"io/ioutil"
+	"os"
 )
 
 func main() {
@@ -11,12 +11,12 @@ func main() {
 }
 
 func openReadFile(filename, appendStr string) error {
-	i, err := ioutil.ReadFile(filename)
+	i, err := os.ReadFile(filename)
 	if err != nil {
 		return err
 	}
 	fmt.Println(i)
 	o := fmt.Sprintf("%s\n%s", i, appendStr)
-	ioutil.WriteFile(filename, []byte(o), fs.ModeAppend)
+	os.WriteFile(filename, []byte(o), fs.ModeAppend)
 	return nil
 }

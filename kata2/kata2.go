@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"io/fs"
-	"io/ioutil"
+	"os"
 )
 
 func main() {
@@ -14,7 +14,7 @@ func main() {
 
 func openReadUpdateJSON(filename, key, value string) error {
 
-	j, err := ioutil.ReadFile(filename)
+	j, err := os.ReadFile(filename)
 	if err != nil {
 		return err
 	}
@@ -34,7 +34,7 @@ func openReadUpdateJSON(filename, key, value string) error {
 		return err
 	}
 
-	err = ioutil.WriteFile(filename, jOut, fs.ModeExclusive)
+	err = os.WriteFile(filename, jOut, fs.ModeExclusive)
 	if err != nil {
 		return err
 	}

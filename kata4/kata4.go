@@ -2,6 +2,10 @@ package main
 
 import "fmt"
 
+func main() {
+	passMessagesBetweenGoroutines("Hello there")
+}
+
 func passMessagesBetweenGoroutines(message string) {
 	c1 := make(chan int)
 	c2 := make(chan int)
@@ -14,16 +18,6 @@ func passMessagesBetweenGoroutines(message string) {
 
 	c1 <- 0
 
-	/*
-		// WORKS
-		for {
-			s, ok := <-p
-			if !ok {
-				break
-			}
-			fmt.Println(s)
-		}
-	*/
 	for s := range p {
 		fmt.Println(s)
 	}
@@ -46,5 +40,4 @@ func printCharAtIndex(message, chName string, maxLength int, c chan int, o chan 
 
 	close(c)
 	close(p)
-	return
 }
