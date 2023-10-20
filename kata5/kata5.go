@@ -15,15 +15,16 @@ type LinkedList struct {
 	Head *LinkedListNode
 }
 
-func (l *LinkedList) Add(d interface{}) {
-	ln := LinkedListNode{Datum: d}
-
-	if l.Head == nil {
-		l.Head = &ln
+func iterateToValue(n *LinkedListNode, val interface{}) *LinkedListNode {
+	if n.Next == nil {
+		return nil
 	}
 
-	tail := iterateToEnd(l.Head, nil)
-	tail.Next = &ln
+	if n.Next.Datum == val {
+		return n
+	}
+
+	return iterateToValue(n.Next, val)
 }
 
 func (l *LinkedList) Remove(val interface{}) *LinkedListNode {
@@ -35,6 +36,17 @@ func (l *LinkedList) Remove(val interface{}) *LinkedListNode {
 	next := n.Next
 	n.Next = next.Next
 	return next
+}
+
+func (l *LinkedList) Add(d interface{}) {
+	ln := LinkedListNode{Datum: d}
+
+	if l.Head == nil {
+		l.Head = &ln
+	}
+
+	tail := iterateToEnd(l.Head, nil)
+	tail.Next = &ln
 }
 
 func (l *LinkedList) Print() {
@@ -61,16 +73,4 @@ func iterateToEnd(n *LinkedListNode, f *func(*LinkedListNode)) *LinkedListNode {
 	}
 
 	return iterateToEnd(n.Next, f)
-}
-
-func iterateToValue(n *LinkedListNode, val interface{}) *LinkedListNode {
-	if n.Next == nil {
-		return nil
-	}
-
-	if n.Next.Datum == val {
-		return n
-	}
-
-	return iterateToValue(n.Next, val)
 }
