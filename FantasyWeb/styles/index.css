@@ -1,0 +1,8 @@
+.hero-body {
+    background-image: url("/images/fantasy-maps-hero-splash.jpg")
+}
+
+.hero-text {
+    background-color: #ffffffbb;
+    color: white !important;
+}
