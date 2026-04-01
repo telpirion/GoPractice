@@ -1,33 +1,12 @@
-# GoPractice
+# Go-is-good
+A small selection of Go snippets
 
-## Kata 1
+## Notes for Terrance
 
-Read and write to a text file.
-
-## Kata 2
-
-Read JSON from a file and write back to the same file.
-
-## Kata 3
-
-Create a simple http server
-
-References:
-+ [httptest example](https://golang.cafe/blog/golang-httptest-example.html)
-
-## Kata 4
-
-Pass messages between two channels
-
-## Kata 5
-
-Create a linked list
-
-## Other kata
-
-* Binary search tree
-* Min / max heap
-* Tree comparison with goroutines
-* Graphs
-* Djkstra's algorithm
-* Factory pattern
+1.  The `GoProdNeutralGuide` is a series of product-agnostic Go snippets that
+    were written to demonstrate specific Google Cloud client techniques.
+1.  The `Misc` directory contains a random collection of Go programs and
+    snippets; some are just little utilities, others were homeworks written for
+    a class.
+1.  The `FantasyMapsWeb` directory contains a web application that stores
+    user-submitted images into Google Cloud Storage. The code _mostly_ works.
